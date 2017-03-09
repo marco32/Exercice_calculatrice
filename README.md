@@ -8,3 +8,6 @@
 
  // Troisieme envoi.
  Réalisation soustraction.
+
+ // Quatrieme envoi.
+ Réalisation multiplication.
