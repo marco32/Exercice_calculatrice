@@ -11,3 +11,6 @@
 
  // Quatrieme envoi.
  Réalisation multiplication.
+
+ // Dernier envoi.
+ Réalisation division avec condition.
