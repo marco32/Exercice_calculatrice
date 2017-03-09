@@ -1,6 +1,10 @@
 # Exercice_calculatrice
-//Premier envoie.
+//Premier envoi.
  création
 
- //Deuxieme envoie.
+ //Deuxieme envoi.
  Réalisation addition.
+
+
+ // Troisieme envoi.
+ Réalisation soustraction.
